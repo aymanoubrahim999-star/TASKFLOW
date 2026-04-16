@@ -1,9 +1,19 @@
 .sidebar {
   width: 240px;
+<<<<<<< HEAD
   background-color: #ffffff;
   border-right: 1px solid #ddd;
   padding: 16px;
   transition: all 0.3s ease;
+=======
+  height: 100vh;
+  border-right: 1px solid #ddd;
+  background-color: #fff;
+  padding: 16px;
+  transition:
+    margin-left 0.3s ease,
+    opacity 0.3s ease;
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
 }
 
 .open {
@@ -17,18 +27,29 @@
 }
 
 .title {
+<<<<<<< HEAD
   font-size: 18px;
   margin-bottom: 16px;
   font-weight: bold;
+=======
+  margin-bottom: 16px;
+  font-size: 18px;
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
 }
 
 .list {
   list-style: none;
+<<<<<<< HEAD
+=======
+  padding: 0;
+  margin: 0;
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
 }
 
 .item {
   display: flex;
   align-items: center;
+<<<<<<< HEAD
   gap: 10px;
   padding: 8px 0;
   cursor: pointer;
@@ -45,6 +66,11 @@
   background-color: #d4edda;
   color: #155724;
   font-weight: 600;
+=======
+  gap: 8px;
+  padding: 8px 0;
+  cursor: pointer;
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
 }
 
 .dot {

@@ -1,4 +1,5 @@
 .header {
+<<<<<<< HEAD
   height: 56px;
   background-color: #1b8c3e;
   color: white;
@@ -7,11 +8,23 @@
   justify-content: space-between;
   padding: 0 20px;
 }
+=======
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 56px;
+  background-color: #1b8c3e;
+  color: white;
+  padding: 0 16px;
+}
+
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
 .left {
   display: flex;
   align-items: center;
   gap: 12px;
 }
+<<<<<<< HEAD
 .menuBtn {
   background: none;
   border: none;
@@ -28,6 +41,23 @@
   color: #1b8c3e;
   border-radius: 50%;
   padding: 6px 10px;
+=======
+
+.menuBtn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.logo {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.avatar {
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
   font-weight: bold;
 }
 .right {

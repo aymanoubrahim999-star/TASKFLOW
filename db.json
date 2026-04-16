@@ -1,5 +1,6 @@
 {
   "projects": [
+<<<<<<< HEAD
     {
       "id": "1",
       "name": "Site E-commerce",
@@ -35,31 +36,48 @@
       "name": "IOT",
       "color": "#b5cfbd"
     }
+=======
+    { "id": "1", "name": "Site E-commerce", "color": "#e74c3c" },
+    { "id": "2", "name": "App Mobile", "color": "#3498db" },
+    { "id": "3", "name": "API Backend", "color": "#2ecc71" }
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
   ],
   "columns": [
     {
       "id": "todo",
       "title": "À Faire",
+<<<<<<< HEAD
       "tasks": [
         "Maquettes UI",
         "Specs techniques"
       ]
+=======
+      "tasks": ["Maquettes UI", "Specs techniques"]
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
     },
     {
       "id": "progress",
       "title": "En Cours",
+<<<<<<< HEAD
       "tasks": [
         "API Auth",
         "Page Login"
       ]
+=======
+      "tasks": ["API Auth", "Page Login"]
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
     },
     {
       "id": "done",
       "title": "Terminé",
+<<<<<<< HEAD
       "tasks": [
         "Setup projet",
         "Config ESLint"
       ]
+=======
+      "tasks": ["Setup projet", "Config ESLint"]
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
     }
   ],
   "users": [
@@ -77,6 +95,7 @@
     },
     {
       "id": "3",
+<<<<<<< HEAD
       "email": "aymane@taskflow.com",
       "password": "aymane123",
       "name": "aymane"
@@ -84,3 +103,11 @@
   ],
   "$schema": "./node_modules/json-server/schema.json"
 }
+=======
+      "email": "sara@taskflow.com",
+      "password": "sara123",
+      "name": "Sara"
+    }
+  ]
+}
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846

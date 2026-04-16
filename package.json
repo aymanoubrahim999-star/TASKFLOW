@@ -10,12 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@reduxjs/toolkit": "^2.11.2",
     "axios": "^1.13.6",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.13.1"
+=======
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+>>>>>>> 2e296b65d6f47c48987d1137732f59b79820a846
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
